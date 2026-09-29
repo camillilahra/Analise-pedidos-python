@@ -1,0 +1,32 @@
+id_pedido,cliente,produto,quantidade,preco_unitario,data
+1001,Ana Souza,Café 500g,2,18.90,2026-03-01
+1002,Bruno Lima,Arroz 5kg,1,27.50,2026-03-01
+1003,Carla Mendes,Leite 1L,6,5.20,2026-03-02
+1004,Diego Rocha,Feijão 1kg,3,8.90,2026-03-02
+1005,Ana Souza,Óleo de soja,2,7.40,2026-03-03
+1006,Eduarda Alves,Pão de forma,4,9.80,2026-03-03
+1007,Felipe Castro,Açúcar 1kg,5,4.50,2026-03-04
+1008,Gabriela Nunes,Farinha de trigo,2,6.30,2026-03-04
+1009,Bruno Lima,Café 500g,1,18.90,2026-03-05
+1010,Carla Mendes,Arroz 5kg,2,27.50,2026-03-05
+1011,Diego Rocha,Leite 1L,12,5.20,2026-03-06
+1012,Ana Souza,Feijão 1kg,,8.90,2026-03-06
+1013,Eduarda Alves,Óleo de soja,3,,2026-03-07
+1014,Felipe Castro,Pão de forma,2,9.80,2026-03-07
+1015,Gabriela Nunes,Açúcar 1kg,-2,4.50,2026-03-08
+1016,Bruno Lima,Farinha de trigo,3,6.30,2026-03-08
+1017,Carla Mendes,Café 500g,1,0.00,2026-03-09
+1018,Diego Rocha,Arroz 5kg,1,27.50,2026-03-09
+1019,Ana Souza,Leite 1L,4,5.20,15/03/2026
+1020,Eduarda Alves,Feijão 1kg,2,8.90,2026-03-10
+1021,Felipe Castro,Café 500g,9999,18.90,2026-03-11
+1022,Gabriela Nunes,Óleo de soja,2,7.40,2026-03-11
+1023,Bruno Lima,Arroz 5kg,1,27.50,2026-03-12
+1023,Bruno Lima,Arroz 5kg,1,27.50,2026-03-12
+1024,Carla Mendes,Pão de forma,3,9.80,2026-03-12
+1025,Diego Rocha,Notebook Gamer,1,8500.00,2026-03-13
+1026,Ana Souza,Açúcar 1kg,5,4.50,2026-03-13
+1027,Eduarda Alves,Leite 1L,6,5.20,2026-03-14
+1028,Felipe Castro,Feijão 1kg,-1,8.90,2026-03-14
+1029,Gabriela Nunes,Café 500g,2,18.90,2026-03-15
+1030,Bruno Lima,Farinha de trigo,4,6.30,2026-03-15
